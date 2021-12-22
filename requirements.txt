@@ -1,5 +1,5 @@
-ftfy
-regex
-tqdm
-torch
-torchvision
+ftfy==6.0.3
+regex==2021.11.10
+tqdm==4.62.3
+torch==1.7.1
+torchvision==0.8.2
