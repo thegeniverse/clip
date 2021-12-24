@@ -7,4 +7,5 @@ setuptools.setup(
     name="clip",
     packages=["clip"],
     install_requires=requirements_list,
+    include_package_data=True,
 )
