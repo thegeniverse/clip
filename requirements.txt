@@ -1,5 +1,5 @@
 ftfy==6.0.3
 regex==2021.11.10
 tqdm==4.62.3
-torch==1.10.0
+torch==1.11.0
 torchvision==0.10.0
